@@ -8,30 +8,30 @@ function App() {
   }
 
   React.useEffect(() => {
-    let url = "www.google.com";
+    let url =
+      "https://www.googleapis.com/youtube/v3/" +
+      "playlistItems?part=snippet,contentDetails,status" +
+      "&playlistId=" + '8787878787' +
+      "&key=123" +
+      "&maxResults=100";
+    // 第一次Fetch
     fetch(url, { method: 'get' })
       .then(function (response) {
         return response.json();
+      }).then((jsonData) => {
+
       }).catch(function (err) {
         console.log(err);
       })
-    setInterval(function(){ refresh() }, 600000);
+    setInterval(function () { refresh() }, 600000);
   }, []);
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         防窺片是三小
+          每10分鐘刷新一次頁面
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          @@@@@@@@@@@@@@
-        </a>
       </header>
     </div>
   );
