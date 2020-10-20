@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.afbd3fbe.chunk.js",
-    "main.js.map": "/static/js/main.afbd3fbe.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d683dd63.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d683dd63.js.map",
-    "static/js/2.9939aa93.chunk.js": "/static/js/2.9939aa93.chunk.js",
-    "static/js/2.9939aa93.chunk.js.map": "/static/js/2.9939aa93.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b556164530612e30028c6d96717af06b.js": "/precache-manifest.b556164530612e30028c6d96717af06b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.9939aa93.chunk.js.LICENSE.txt": "/static/js/2.9939aa93.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/gary11159/autoRefresh/static/css/main.5f361e03.chunk.css",
+    "main.js": "/gary11159/autoRefresh/static/js/main.44f44c08.chunk.js",
+    "main.js.map": "/gary11159/autoRefresh/static/js/main.44f44c08.chunk.js.map",
+    "runtime-main.js": "/gary11159/autoRefresh/static/js/runtime-main.78ebaaf6.js",
+    "runtime-main.js.map": "/gary11159/autoRefresh/static/js/runtime-main.78ebaaf6.js.map",
+    "static/js/2.9939aa93.chunk.js": "/gary11159/autoRefresh/static/js/2.9939aa93.chunk.js",
+    "static/js/2.9939aa93.chunk.js.map": "/gary11159/autoRefresh/static/js/2.9939aa93.chunk.js.map",
+    "index.html": "/gary11159/autoRefresh/index.html",
+    "precache-manifest.476707543135e1ae43b07ae7d613c77d.js": "/gary11159/autoRefresh/precache-manifest.476707543135e1ae43b07ae7d613c77d.js",
+    "service-worker.js": "/gary11159/autoRefresh/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/gary11159/autoRefresh/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9939aa93.chunk.js.LICENSE.txt": "/gary11159/autoRefresh/static/js/2.9939aa93.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gary11159/autoRefresh/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d683dd63.js",
+    "static/js/runtime-main.78ebaaf6.js",
     "static/js/2.9939aa93.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.afbd3fbe.chunk.js"
+    "static/js/main.44f44c08.chunk.js"
   ]
 }
