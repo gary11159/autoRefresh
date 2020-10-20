@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/gary11159/autoRefresh/static/css/main.5f361e03.chunk.css",
-    "main.js": "/gary11159/autoRefresh/static/js/main.44f44c08.chunk.js",
-    "main.js.map": "/gary11159/autoRefresh/static/js/main.44f44c08.chunk.js.map",
-    "runtime-main.js": "/gary11159/autoRefresh/static/js/runtime-main.78ebaaf6.js",
-    "runtime-main.js.map": "/gary11159/autoRefresh/static/js/runtime-main.78ebaaf6.js.map",
-    "static/js/2.9939aa93.chunk.js": "/gary11159/autoRefresh/static/js/2.9939aa93.chunk.js",
-    "static/js/2.9939aa93.chunk.js.map": "/gary11159/autoRefresh/static/js/2.9939aa93.chunk.js.map",
-    "index.html": "/gary11159/autoRefresh/index.html",
-    "precache-manifest.476707543135e1ae43b07ae7d613c77d.js": "/gary11159/autoRefresh/precache-manifest.476707543135e1ae43b07ae7d613c77d.js",
-    "service-worker.js": "/gary11159/autoRefresh/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/gary11159/autoRefresh/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.9939aa93.chunk.js.LICENSE.txt": "/gary11159/autoRefresh/static/js/2.9939aa93.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/gary11159/autoRefresh/static/media/logo.5d5d9eef.svg"
+    "main.css": "/autoRefresh/static/css/main.5f361e03.chunk.css",
+    "main.js": "/autoRefresh/static/js/main.13ada46c.chunk.js",
+    "main.js.map": "/autoRefresh/static/js/main.13ada46c.chunk.js.map",
+    "runtime-main.js": "/autoRefresh/static/js/runtime-main.3b6523ac.js",
+    "runtime-main.js.map": "/autoRefresh/static/js/runtime-main.3b6523ac.js.map",
+    "static/js/2.9939aa93.chunk.js": "/autoRefresh/static/js/2.9939aa93.chunk.js",
+    "static/js/2.9939aa93.chunk.js.map": "/autoRefresh/static/js/2.9939aa93.chunk.js.map",
+    "index.html": "/autoRefresh/index.html",
+    "precache-manifest.6f60ad09b8c31747b66751fb5ed36e71.js": "/autoRefresh/precache-manifest.6f60ad09b8c31747b66751fb5ed36e71.js",
+    "service-worker.js": "/autoRefresh/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/autoRefresh/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9939aa93.chunk.js.LICENSE.txt": "/autoRefresh/static/js/2.9939aa93.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/autoRefresh/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.78ebaaf6.js",
+    "static/js/runtime-main.3b6523ac.js",
     "static/js/2.9939aa93.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.44f44c08.chunk.js"
+    "static/js/main.13ada46c.chunk.js"
   ]
 }
